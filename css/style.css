@@ -1,0 +1,23 @@
+*{
+ background-color: navajowhite;
+ padding: 0%;
+ }   
+header {
+    color: #000;
+    font-size: medium;
+    text-align: center;
+}
+section {
+    width: 28vh;
+    height: 15em;
+    margin: 10px auto;
+    border: 50px solid gray;
+    padding: 20px;
+}
+paragraph {
+    color: aliceblue;
+}
+h2 {
+    font-size: 2em;
+    color: white;
+}
